@@ -30,4 +30,10 @@ This project is a Flask API that provides climate data from a SQLite database.
 ### Temperature Data from Start to End Date (12-31-2017)
 ![AVG MAX MIN 12312017](API%20IMAGES/AVG%20MAX%20MIN_12312017.png)
 
-Ready to commit
+## Acknowledgments
+
+I would like to thank the following tools and assistants for their help in this project:
+
+- [ChatGPT](https://www.openai.com/research/chatgpt) by OpenAI for providing assistance with code and project guidance.
+- [Xpert Learning Assistant](link to the tool if available) from the course for additional support and resources.
+
