@@ -45,6 +45,6 @@ To run the climate data analysis in the Jupyter notebook:
 I would like to note that I used the following tools help with this challenge:
 
 
-- [ChatGPT](https://www.openai.com/research/chatgpt) by OpenAI for providing assistance with code and project guidance.
-- [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/5344/external_tools/313) from the course for additional support and resources.
+- [ChatGPT](https://www.openai.com/research/chatgpt) by OpenAI for providing assistance with code and assignment guidance and explanation, as well as...
+- [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/5344/external_tools/313) from the course for specific course-related coding guidance
 
