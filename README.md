@@ -35,5 +35,5 @@ This project is a Flask API that provides climate data from a SQLite database.
 I would like to thank the following tools and assistants for their help in this project:
 
 - [ChatGPT](https://www.openai.com/research/chatgpt) by OpenAI for providing assistance with code and project guidance.
-- [Xpert Learning Assistant](link to the tool if available) from the course for additional support and resources.
+- [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/5344/external_tools/313) from the course for additional support and resources.
 
