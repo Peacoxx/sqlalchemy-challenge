@@ -30,9 +30,20 @@ This project is a Flask API that provides climate data from a SQLite database.
 ### Temperature Data from Start to End Date (12-31-2017)
 ![AVG MAX MIN 12312017](API%20IMAGES/AVG%20MAX%20MIN_12312017.png)
 
+## Jupyter Notebook Analysis
+
+To run the climate data analysis in the Jupyter notebook:
+
+1. **Install Dependencies**:
+   ```sh
+   pip install pandas numpy sqlalchemy matplotlib jupyter
+
+
+
 ## Acknowledgments
 
-I would like to thank the following tools and assistants for their help in this project:
+I would like to note that I used the following tools help with this challenge:
+
 
 - [ChatGPT](https://www.openai.com/research/chatgpt) by OpenAI for providing assistance with code and project guidance.
 - [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/5344/external_tools/313) from the course for additional support and resources.
